@@ -5,6 +5,7 @@ function App() {
     <>
       <div>
         <a href="https://carozzicorp-my.sharepoint.com/:b:/p/knrtorres/ER2Dlob9JD9Ng8o4_hb8b7gBZcpb0Ag1SrZlvBnrylyTQQ?e=W5NBig" target="_blank">
+        Politicas de Mantenimiento
         </a>
       </div>
       <p className="read-the-docs">
